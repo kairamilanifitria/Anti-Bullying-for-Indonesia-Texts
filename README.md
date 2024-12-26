@@ -1,10 +1,10 @@
 # Anti-Bullying-for-Indonesia-Texts
 
-preview :
+## preview :
 ![anti-bullying-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/fe9991eb-b272-4712-921d-50143c134c8d)
 
 
-explanation: 
+## Slides Explanation: 
 ![Final Project Bullying Detection](https://github.com/user-attachments/assets/6bb9e174-0cda-4d6e-be45-6ed8c05cf3f4)
 ![3](https://github.com/user-attachments/assets/3f297359-8ff8-476e-996b-eeddecc0f094)
 ![4](https://github.com/user-attachments/assets/6e4d49a5-d9bc-48f3-a63c-866b9b214a2f)
